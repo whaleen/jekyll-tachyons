@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+## Installation
+
 ```bash
 git clone https://github.com/whaleen/jekyll-tachyons
 ```
@@ -11,10 +14,16 @@ cd jekyll-tachyons
 ```
 
 ```bash
+bundle install
+```
+
+## Serve
+
+```bash
 jekyll serve --watch
 ```
 
-BrowserSync with Jekyll
+## BrowserSync
 
 ```bash
 browser-sync start --proxy "localhost:4000" --files "_site/*.*"
