@@ -16,7 +16,7 @@
 title: jekyll-tachyons
 email: joshuavaage@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Stripped down Jekyll site structure and a Tachyons stylesheet.
+  Bare minimum Jekyll project with a Tachyons stylesheet.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
