@@ -17,6 +17,8 @@ cd jekyll-tachyons
 bundle install
 ```
 
+https://bundler.io
+
 ## Serve
 
 ```bash
@@ -24,6 +26,8 @@ jekyll serve --watch
 ```
 
 ## BrowserSync
+
+https://www.browsersync.io
 
 ```bash
 browser-sync start --proxy "localhost:4000" --files "_site/*.*"
